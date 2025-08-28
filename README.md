@@ -8,14 +8,15 @@ I have completed a B.S.C in **Computer Science & Engineering** from United Inter
 
 #### 💻 What I Do:
 
-1. Develop full-stack web applications with React (front-end) and Node.js + Express.js (back-end).
-2. Build secure REST API and integrate third-party services.
-3. Work with MongoDB, MySQL & PostgreSQL to design efficient and scalable databases.
-4. Create responsive UI using React, TailwindCSS, or Bootstrap.
-5. Implement  authentication & authorization (JWT, OAuth).
-6. Optimize applications for speed, SEO, and performance.
+:white_check_mark: Develop full-stack web applications with React (front-end) and Node.js + Express.js (back-end).\
+:white_check_mark: Build secure REST API and integrate third-party services.\
+:white_check_mark: Work with MongoDB, MySQL & PostgreSQL to design efficient and scalable databases.\
+:white_check_mark: Create responsive UI using React, TailwindCSS, or Bootstrap.\
+:white_check_mark: Implement  authentication & authorization (JWT, OAuth).\
+:white_check_mark: Optimize applications for speed, SEO, and performance.
 
-#### Why Work With Me?
+
+**:loudspeaker: Why Work With Me?**
 
 - I focus on writing clean, maintainable, and scalable code.
 - Excellent communication - I keep clients updated at every step.
@@ -24,10 +25,10 @@ I have completed a B.S.C in **Computer Science & Engineering** from United Inter
 
 #### 📌 Tech Stack & Tools:
 
-**Front-end**: React, Next.js, Redux, TailwindCSS, Bootstrap\
-**Back-end**: Node.js, Express.js, REST APIs, GraphQL\
-**Database**: MongoDB (Mongoose), MySQL, PostgreSQL\
-**Other Tools**: Git, Docker, Postman, Firebase & Supabase\
+**:globe_with_meridians: Front-end**: React, Next.js, Redux, TailwindCSS, Bootstrap\
+**:gear: Back-end**: Node.js, Express.js, REST APIs, GraphQL\
+**:file_cabinet: Database**: MongoDB (Mongoose), MySQL, PostgreSQL\
+**:toolbox: Other Tools**: Git, Docker, Postman, Firebase & Supabase\
 
 **🛠️ Version Control & Tools: Git, GitHub, Jira, Postman, VS Code**
 
